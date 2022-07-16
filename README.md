@@ -18,6 +18,12 @@ The purpose of this analysis is to compare test results from several different h
 
 <img width="1007" alt="Screen Shot 2022-07-10 at 2 56 11 AM" src="https://user-images.githubusercontent.com/99847786/178134621-2222af76-f3e3-4612-b23a-8bfa622b3818.png">
 
+#### After replacing with NaNs
+##### Top Five Schools
+
+##### Bottom Five Schools
+
+
 ### School Summary
 
 ### Thomas High School Vs Other Schools
