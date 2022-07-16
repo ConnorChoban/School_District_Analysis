@@ -12,7 +12,12 @@ The purpose of this analysis is to compare test results from several different h
 
 ##### Top Five Schools
 
+<img width="1142" alt="Screen Shot 2022-07-16 at 1 11 05 AM" src="https://user-images.githubusercontent.com/99847786/179340376-ffec36fe-ba6f-449a-92bd-30e1ffb05571.png">
+
+
 ##### Bottom Five Schools
+
+<img width="1142" alt="Screen Shot 2022-07-16 at 1 10 56 AM" src="https://user-images.githubusercontent.com/99847786/179340364-9f29bf62-9a4b-4f6f-9cea-c98dc8978719.png">
 
 #### After Replacing with NaNs
 
