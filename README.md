@@ -42,13 +42,32 @@ The purpose of this analysis is to compare test results from several different h
 
 ### Schools by Spending
 
+#### Before
+
+<img width="1025" alt="Screen Shot 2022-07-16 at 1 15 48 AM" src="https://user-images.githubusercontent.com/99847786/179340961-df4b471e-0681-46ac-907f-8124cd54549c.png">
+
+#### After
+
 <img width="758" alt="Screen Shot 2022-07-10 at 2 34 36 AM" src="https://user-images.githubusercontent.com/99847786/178134111-ae651c70-b15e-430b-ad62-fb2d9defa75b.png">
 
 ### Schools by Size
 
+#### Before
+
+<img width="1025" alt="Screen Shot 2022-07-16 at 1 16 28 AM" src="https://user-images.githubusercontent.com/99847786/179340969-9f302089-512b-451b-a4f9-3b7912aba50c.png">
+
+#### After
+
 <img width="772" alt="Screen Shot 2022-07-10 at 2 34 46 AM" src="https://user-images.githubusercontent.com/99847786/178134113-56a9c29c-87d8-420a-8d30-70599324a75a.png">
 
 ### Schools by Type
+
+#### Before
+
+<img width="1025" alt="Screen Shot 2022-07-16 at 1 16 49 AM" src="https://user-images.githubusercontent.com/99847786/179340974-1bc81d72-a606-40ac-99ad-aacef611ce53.png">
+
+
+#### After
 
 <img width="772" alt="Screen Shot 2022-07-10 at 2 34 52 AM" src="https://user-images.githubusercontent.com/99847786/178134116-4844e81f-786a-44a8-9f29-90eaad3a5e0c.png">
 
