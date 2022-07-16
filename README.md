@@ -11,13 +11,16 @@ The purpose of this analysis is to compare test results from several different h
 
 <img width="936" alt="Screen Shot 2022-07-10 at 1 35 13 AM" src="https://user-images.githubusercontent.com/99847786/178134109-87802221-e73c-4707-b0e0-0388689743a9.png">
 
-### Top Five Schools
+### District Summary
+#### Top Five Schools
 
 <img width="1007" alt="Screen Shot 2022-07-10 at 2 55 57 AM" src="https://user-images.githubusercontent.com/99847786/178134619-127013bc-9c70-46d4-b5fe-6dbb3865acf9.png">
 
-### Bottom Five Schools
+#### Bottom Five Schools
 
 <img width="1007" alt="Screen Shot 2022-07-10 at 2 56 11 AM" src="https://user-images.githubusercontent.com/99847786/178134621-2222af76-f3e3-4612-b23a-8bfa622b3818.png">
+
+### Math and Reading Scores by Grade
 
 ### Schools by Spending
 
