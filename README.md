@@ -8,12 +8,13 @@ The purpose of this analysis is to compare test results from several different h
 ## Results
 
 ### District Summary
-#### Before replacing with NaNs
+#### Before Replacing with NaNs
 
 ##### Top Five Schools
 
 ##### Bottom Five Schools
 
+#### After Replacing with NaNs
 
 ##### Top Five Schools
 
