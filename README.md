@@ -10,6 +10,17 @@ The purpose of this analysis is to compare test results from several different h
 ### District Summary
 #### Before Replacing with NaNs
 
+<img width="1025" alt="Screen Shot 2022-07-16 at 1 33 26 AM" src="https://user-images.githubusercontent.com/99847786/179341350-fc1dc9b5-b064-4754-ac7f-cd055b8e0ef9.png">
+
+
+#### After Replacing with NaNs
+
+<img width="936" alt="Screen Shot 2022-07-10 at 1 35 13 AM" src="https://user-images.githubusercontent.com/99847786/179341360-82833d2d-56d6-4673-b2dc-bbb17795fafe.png">
+
+
+### School Summary
+#### Before Replacing with NaNs
+
 ##### Top Five Schools
 
 <img width="1142" alt="Screen Shot 2022-07-16 at 1 12 40 AM" src="https://user-images.githubusercontent.com/99847786/179340396-93dd3d30-4dc4-4af6-9e8f-aae0b7d971a3.png">
