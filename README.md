@@ -41,15 +41,27 @@ The purpose of this analysis is to compare test results from several different h
 
 <img width="1007" alt="Screen Shot 2022-07-10 at 2 56 11 AM" src="https://user-images.githubusercontent.com/99847786/178134621-2222af76-f3e3-4612-b23a-8bfa622b3818.png">
 
-### School Summary
-
-#### Before
-
-#### After
-
 ### Thomas High School Vs Other Schools
 
 ### Math and Reading Scores by Grade
+
+#### Before
+
+##### Math
+
+<img width="475" alt="Screen Shot 2022-07-16 at 1 46 21 AM" src="https://user-images.githubusercontent.com/99847786/179341814-9db5a760-acdb-4cc9-8050-1c586694f6fc.png">
+
+##### Reading
+<img width="475" alt="Screen Shot 2022-07-16 at 1 46 16 AM" src="https://user-images.githubusercontent.com/99847786/179341822-92c2a871-b7c3-45ee-9c62-c6d15514737f.png">
+
+#### After
+##### Math
+
+<img width="347" alt="Screen Shot 2022-07-16 at 1 43 38 AM" src="https://user-images.githubusercontent.com/99847786/179341888-7fc5e1cf-bbb5-4e2b-a37d-8aca3d7657ca.png">
+
+##### Reading
+
+<img width="347" alt="Screen Shot 2022-07-16 at 1 43 44 AM" src="https://user-images.githubusercontent.com/99847786/179341891-61ed54f2-0c58-4d85-b6f5-6096355e511a.png">
 
 ### Schools by Spending
 
