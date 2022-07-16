@@ -97,7 +97,7 @@ Although Thomas High School would fall into the  630-644 bin, there is no signif
 
 <img width="772" alt="Screen Shot 2022-07-10 at 2 34 46 AM" src="https://user-images.githubusercontent.com/99847786/178134113-56a9c29c-87d8-420a-8d30-70599324a75a.png">
 
-No noticeable differences here either. 
+No noticeable differences here either. Here, Thomas High School falls into the 'Medium' size school category, the highest performing on average. 
 
 ### Schools by Type
 
@@ -114,4 +114,6 @@ Finally, we divided our data set into two classes of schools, Charter and Distri
 
 ## Summary
 
-After replacing the math and reading scores for ninth graders at Thomas High School, we can come to the following conclusions. One, 
+After replacing the math and reading scores for ninth graders at Thomas High School, we can come to the following conclusions. One, there was a slight decrease in the percentage of students passing math and reading, and passing overall across all schools. This would seem to indicate that the students at Thomas High School are performing better than average, however, not significantly more than other students at other schools. 
+
+By changing the grades for ninth graders at Thomas High School, the percentage of students passing math and reading fell slightly, but not by much. In spite of the decrease, Thomas High School retains second place among schools in the district. 
