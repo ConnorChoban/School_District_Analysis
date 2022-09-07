@@ -8,19 +8,19 @@ The purpose of this analysis is to compare test results from several different h
 ## Results
 
 ### District Summary
-#### Before Replacing with NaNs
+#### Before Replacing Scores with NaNs
 
 <img width="1025" alt="Screen Shot 2022-07-16 at 1 33 26 AM" src="https://user-images.githubusercontent.com/99847786/179341350-fc1dc9b5-b064-4754-ac7f-cd055b8e0ef9.png">
 
 
-#### After Replacing with NaNs
+#### After Replacing Scores with NaNs
 
 <img width="936" alt="Screen Shot 2022-07-10 at 1 35 13 AM" src="https://user-images.githubusercontent.com/99847786/179341360-82833d2d-56d6-4673-b2dc-bbb17795fafe.png">
 
 After replacing the math and reading scores for Thomas High School with NaNs, there was no noticeable change for the average math and reading scores, however, there were some slight differences in the remaining columns. The percentage of students passing math fell from 74.9% to 74.8%, the percentage of students passing reading fell from 85.8% to 85.7%, and the percentage of students passing overall fell from 65.2% to 64.9%.
 
 ### School Summary
-#### Before Replacing with NaNs
+#### Before Replacing Scores with NaNs
 
 ##### Top Five Schools
 
@@ -114,8 +114,8 @@ Finally, we divided our data set into two classes of schools, Charter and Distri
 
 ## Summary
 
-After replacing the math and reading scores for ninth graders at Thomas High School, we can come to the following conclusions. One, there was a slight decrease in the percentage of students passing math and reading, and passing overall across all schools. This would seem to indicate that the students at Thomas High School are performing better than average, however, not significantly more than other students at other schools. 
+After replacing the math and reading scores for ninth graders at Thomas High School, we can come to the following conclusions. One, there was a slight decrease in the percentage of students passing math and reading, and passing overall across all schools. This would seem to indicate that the students at Thomas High School are performing better than average, however, not significantly more so than other students at other schools. 
 
-By changing the grades for ninth graders at Thomas High School, the percentage of students passing math and reading fell slightly, but not by much. In spite of the decrease, Thomas High School retains second place among schools in the district. 
+By changing the grades for ninth graders at Thomas High School, the percentage of students passing math and reading fell slightly, but not by much. In spite of the decrease Thomas High School retains second place among schools in the district. 
 
 Finally, by comparing the average amount of students passing across all categories, and comparing by school spending by student, school type, and school size, we can deduce that as Thomas High School falls under the charter school type as well as being a medium size school, both of which tend to produce the highest performing students when compared to other types and sizes, and falls into the secong highest spending bin, we can see that Thomas High School has the traits the highest performing schools in the district. As such, and given that ninth graders' scores aren't significantly different from other grade levels, we can come to the following conclusion: There is insufficient evidence to support the claim that there is academic dishonesty among ninth graders at THS. 
